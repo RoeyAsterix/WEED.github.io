@@ -1,5 +1,5 @@
 # WEED - What EEs Different  
-![This is an image](docs/assets/WEED.png)
+![This is an image](docs/assets/WEED.svg)
 
 Hi! Have you ever pushed to production only to find out (live) that the permissions between environments are out of sync resulting in access errors in a live environment? 
 Well we have, we got frustrated, cried, learned, and created WEED!!!
